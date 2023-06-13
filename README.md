@@ -2,7 +2,7 @@
 
 This repository contains datasets used to generate models in the *Near_Term Forecasting of Water Reservoir Storage Capacities Using Long Short-Term Memory* by Eric Rohli, Nicholas Woolsey and David Sathiaraj. 
 
-The data used are available at: [![DOI](https://zenodo.org/badge/651280043.svg)](https://zenodo.org/badge/latestdoi/651280043)
+The data used are available at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8032486.svg)](https://doi.org/10.5281/zenodo.8032486)
 
 The data are divided into two folders.
 
