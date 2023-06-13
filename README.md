@@ -23,3 +23,5 @@ These files map **reservoir elevation** to **reservoir storage capacity** and ar
 ### Res Data
 
 These files contain daily observed **reservoir storage** and/or **reservoir elevation**. Data come from the [USGS Water Data for the Nation API](https://waterdata.usgs.gov/nwis/uv).
+
+TRABUS has decided to provide all reservoir data for a particular site in a single file. To reproduce our study, split the data sequentially such that data on or prior to December 31, 2020 are used for training and data on or after January 1, 2021 are used for testing. 
